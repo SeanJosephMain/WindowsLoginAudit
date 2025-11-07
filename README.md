@@ -4,7 +4,7 @@ Prompts for Client Name, Ticket Number, Description, PIN, and optional Maintenan
 
 PIN is automatically emailed to the user with a visible bypass key displayed
 
-User enters PIN to proceed — valid PIN grants access immediately
+User enters PIN to proceed, and a valid PIN grants access immediately
 
 Maintenance mode starts if selected, showing a live countdown timer
 
